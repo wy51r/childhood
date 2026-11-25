@@ -1,0 +1,106 @@
+{
+  "checked_on": "2026-11-23",
+  "repos": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "AloysHF/childhood",
+        "branch": "master",
+        "license": "Apache-2.0",
+        "archived": false,
+        "description": "童年卡片/棋类游戏合集"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "Just-Artur0/Just-Games",
+        "branch": "main",
+        "license": null,
+        "archived": false,
+        "description": "45.6 billion won is child's play A Squid Game Recreation in Pygame"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "bpupadhyaya/games-site",
+        "branch": "main",
+        "license": null,
+        "archived": false,
+        "description": "Games."
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "yunjinkyu/Gonggi",
+        "branch": "main",
+        "license": null,
+        "archived": false,
+        "description": null
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "erik-slack/Red-Rover",
+        "branch": "master",
+        "license": null,
+        "archived": false,
+        "description": "Simulates a game that was widely popular amongst children in the United States in decades past."
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "afnan-nex/cats-cradle",
+        "branch": "main",
+        "license": "MIT",
+        "archived": false,
+        "description": "An interactive web experiment that transforms hand gestures into mesmerizing virtual string art using real-time hand tracking."
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "angeloproject7/PEBSIT004_Prelim_Cauilan_ChineseGarter",
+        "branch": "main",
+        "license": null,
+        "archived": false,
+        "description": "Chinese Garter 2D Mobile Game Prototype"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "RioBanida/Chinese-Garter",
+        "branch": "master",
+        "license": null,
+        "archived": false,
+        "description": null
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "showman-sharma/red-light-green-light",
+        "branch": "main",
+        "license": "MIT",
+        "archived": false,
+        "description": "A version of the iconic game as seen in the Netflix series: Squid Game, created using Open CV"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "repo": "0shuvo0/squidgame",
+        "branch": "main",
+        "license": null,
+        "archived": false,
+        "description": "Red light green light game from squid game made using JavaScript and Three.js"
+      }
+    }
+  ]
+}
+

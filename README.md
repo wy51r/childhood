@@ -17,6 +17,10 @@
 
 **在线体验**：[GitHub Pages（主站）](https://jiangxincode.github.io/childhood/) · [Cloudflare Pages（镜像）](https://childhood-cck.pages.dev/)
 
+## 童年游戏研究资料
+
+[童年游戏研究资料库](docs/童年游戏研究资料库/README.md) 收录八类民间游戏的规则、电子化案例、公开代码线索、来源核验和历史问答，供后续 PC／手机游戏开发参考。当前为 2026-11-23 整理版，包含 31 个案例／工具／合集记录及 77 个去重外部链接。
+
 ## 卡牌游戏
 
 ![经典童年卡牌对战](images/snapshots/经典同童年卡牌对战.jpg)

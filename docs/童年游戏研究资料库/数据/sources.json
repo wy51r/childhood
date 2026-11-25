@@ -1,0 +1,1196 @@
+{
+  "schema_version": 1,
+  "compiled_on": "2026-11-23",
+  "timezone": "Asia/Shanghai",
+  "source_count": 77,
+  "sources": [
+    {
+      "id": "S001",
+      "url": "https://ormgames.com/en/gonggi/",
+      "titles": [
+        "Gonggi — ormgames",
+        "Gonggi 分阶段说明"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "01_抓石子.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮官方玩法正文可读；未试玩"
+    },
+    {
+      "id": "S002",
+      "url": "https://play.google.com/store/apps/details?id=com.silgam.gonggiSimulator",
+      "titles": [
+        "Gonggi Simulator"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "01_抓石子.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S003",
+      "url": "https://play.google.com/store/apps/details?hl=en&id=com.postbeta.hopscotch",
+      "titles": [
+        "Hopscotch — PostBeta"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "02_跳房子.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮商店正文；更新2017-05-01，未安装"
+    },
+    {
+      "id": "S004",
+      "url": "https://www.y8.com/games/rubber_band_jumping",
+      "titles": [
+        "Rubber Band Jumping"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮平台玩法简介；未验证模拟运行"
+    },
+    {
+      "id": "S005",
+      "url": "https://play.google.com/store/apps/details?id=com.equalinformation.arcforge.shell",
+      "titles": [
+        "Arcforge: World Heritage Games",
+        "Android 合集",
+        "Arcforge"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "09_综合案例与公开资料库.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S006",
+      "url": "https://izhard.itch.io/dvor",
+      "titles": [
+        "DVOR"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "02_跳房子.md",
+        "04_跳皮筋.md",
+        "09_综合案例与公开资料库.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮作者项目介绍；未运行"
+    },
+    {
+      "id": "S007",
+      "url": "https://just-artur.itch.io/justgames",
+      "titles": [
+        "Just Games"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "09_综合案例与公开资料库.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮作者页面；Android port仍标开发中；有影视素材说明"
+    },
+    {
+      "id": "S008",
+      "url": "https://github.com/Just-Artur0/Just-Games",
+      "titles": [
+        "Just-Artur0 / Just-Games",
+        "Just-Artur0/Just-Games",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "09_综合案例与公开资料库.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支main；API识别许可null（未确认）；未安装运行"
+    },
+    {
+      "id": "S009",
+      "url": "https://github.com/hwlvipone/gonggi-game",
+      "titles": [
+        "hwlvipone/gonggi-game"
+      ],
+      "used_in": [
+        "档案/历史问答.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S010",
+      "url": "https://github.com/kliaw1/HopscotchMiniGame",
+      "titles": [
+        "kliaw1/HopscotchMiniGame"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "02_跳房子.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S011",
+      "url": "https://xinwen.bjd.com.cn/content/s69ca4224e4b0cd719e9fbdc6.html",
+      "titles": [
+        "名称与规则来源",
+        "北京日报《老北京的“马上游戏”》"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "05_跑马城与挑急急令.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮名称与跑马城规则正文可读"
+    },
+    {
+      "id": "S012",
+      "url": "https://amandacaswell.itch.io/red-rover",
+      "titles": [
+        "Red Rover — AmandaCaswell"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "05_跑马城与挑急急令.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": "2026-11-23",
+      "status": "本轮工具读取失败；不据此认定已下架"
+    },
+    {
+      "id": "S013",
+      "url": "https://www.tomsguide.com/ai/its-no-fortnite-but-i-just-created-a-game-using-grok-heres-how",
+      "titles": [
+        "作者介绍",
+        "作者制作介绍"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "05_跑马城与挑急急令.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S014",
+      "url": "https://play.google.com/store/apps/details?id=red.rover.run.attack",
+      "titles": [
+        "Red Rover Run: Merge & Attack"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "05_跑马城与挑急急令.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮商店条目可读；改编机制依据历史介绍，未安装"
+    },
+    {
+      "id": "S015",
+      "url": "https://github.com/erik-slack/Red-Rover",
+      "titles": [
+        "erik-slack / Red-Rover",
+        "erik-slack/Red-Rover"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "05_跑马城与挑急急令.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支master；API识别许可null（未确认）；未安装运行"
+    },
+    {
+      "id": "S016",
+      "url": "https://github.com/erik-slack/Red-Rover/blob/master/roster.cpp",
+      "titles": [
+        "核心实现",
+        "roster.cpp",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "05_跑马城与挑急急令.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L2",
+      "checked_on": "2026-11-23",
+      "status": "本轮核心代码；数值攻防和转队"
+    },
+    {
+      "id": "S017",
+      "url": "https://youxi.pomodiary.com/portal",
+      "titles": [
+        "乡土游戏馆",
+        "项目入口与清单"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "09_综合案例与公开资料库.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": "2026-11-23",
+      "status": "本轮无可读正文；历史搜索索引信息未重新确认"
+    },
+    {
+      "id": "S018",
+      "url": "https://github.com/AloysHF/childhood",
+      "titles": [
+        "童年游戏合集 — AloysHF/childhood",
+        "源码与说明",
+        "AloysHF/childhood",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "09_综合案例与公开资料库.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支master；API识别许可Apache-2.0；未安装运行"
+    },
+    {
+      "id": "S019",
+      "url": "https://fy.szu.edu.cn/fyxm/xmlb/yxl/zymjyx.htm",
+      "titles": [
+        "中原民间游戏 — 深圳大学体育非遗资料",
+        "中原民间游戏资料",
+        "深圳大学“中原民间游戏”条目",
+        "中原民间游戏目录",
+        "中原民间游戏 — 深圳大学体育非遗"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "03_斗拐.md",
+        "05_跑马城与挑急急令.md",
+        "09_综合案例与公开资料库.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮规则目录正文可读；地域分类，非完整裁判细则"
+    },
+    {
+      "id": "S020",
+      "url": "https://fun.arley.cn/afterschool",
+      "titles": [
+        "放学后 · 童年体验馆",
+        "玩法资料库",
+        "放学后·童年体验馆"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "09_综合案例与公开资料库.md"
+      ],
+      "verification": "L0",
+      "checked_on": "2026-11-23",
+      "status": "本轮只读到JavaScript提示；历史条目数量未重新确认"
+    },
+    {
+      "id": "S021",
+      "url": "https://aloyshf.github.io/childhood/",
+      "titles": [
+        "在线体验",
+        "AloysHF/childhood"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S022",
+      "url": "https://childhood-cck.pages.dev/",
+      "titles": [
+        "镜像入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S023",
+      "url": "https://mapleridgemuseum.org/wp-content/uploads/2025/01/Craft-Create-Cats-Cradle.pdf",
+      "titles": [
+        "双人玩法图解参考：Maple Ridge Museum",
+        "Maple Ridge Museum 图解"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md"
+      ],
+      "verification": "L0",
+      "checked_on": "2026-11-23",
+      "status": "本轮抓取超时；保留历史规则图解"
+    },
+    {
+      "id": "S024",
+      "url": "https://afnan-nex.github.io/cats-cradle/index.html",
+      "titles": [
+        "在线演示",
+        "Cat’s Cradle — afnan-nex"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S025",
+      "url": "https://github.com/afnan-nex/cats-cradle",
+      "titles": [
+        "GitHub 源码",
+        "Cat’s Cradle — afnan-nex",
+        "afnan-nex/cats-cradle",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支main；API识别许可MIT；未安装运行"
+    },
+    {
+      "id": "S026",
+      "url": "https://github.com/afnan-nex/cats-cradle/blob/main/index.html",
+      "titles": [
+        "实现代码",
+        "index.html"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md"
+      ],
+      "verification": "L2",
+      "checked_on": "2026-11-23",
+      "status": "本轮手势跟踪和固定连线实现"
+    },
+    {
+      "id": "S027",
+      "url": "https://www.taptap.cn/app/47924",
+      "titles": [
+        "游戏介绍",
+        "扭动的绳子／愁丝"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S028",
+      "url": "https://www.taptap.cn/moment/15228686907212145",
+      "titles": [
+        "开发者关于灵感及下架的说明",
+        "开发者帖子"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md"
+      ],
+      "verification": "L0",
+      "checked_on": "2026-11-23",
+      "status": "本轮帖子主体抽取不足；下架与灵感说法为历史核验"
+    },
+    {
+      "id": "S029",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/untangle.html",
+      "titles": [
+        "直接玩网页版",
+        "Untangle"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S030",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
+      "titles": [
+        "官方源码及下载入口",
+        "Simon Tatham’s Portable Puzzle Collection",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": "2026-11-23",
+      "status": "本轮抓取超时；此前源码与MIT信息仍待复用前核定"
+    },
+    {
+      "id": "S031",
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/doc/untangle.html",
+      "titles": [
+        "官方规则",
+        "规则"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮官方规则可读"
+    },
+    {
+      "id": "S032",
+      "url": "https://isfa.org/software.htm",
+      "titles": [
+        "软件页面",
+        "国际翻绳协会 ISFA",
+        "String Figures made easier",
+        "String Figure Analyser",
+        "ISFA"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md",
+        "09_综合案例与公开资料库.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮协会软件介绍可读；未下载程序"
+    },
+    {
+      "id": "S033",
+      "url": "https://doi.org/10.1145/3587828.3587839",
+      "titles": [
+        "String Figure Simulation with Multiresolution Wire Model"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "06_翻花绳.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S034",
+      "url": "https://www.algoryx.se/publications/",
+      "titles": [
+        "论文摘要收录"
+      ],
+      "used_in": [
+        "档案/历史问答.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S035",
+      "url": "https://montfortcare.org.sg/wp-content/uploads/2025/11/01-Five-Stones.pdf",
+      "titles": [
+        "五石子玩法指南"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "01_抓石子.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮PDF文本可读；没有复制图版或打包原PDF"
+    },
+    {
+      "id": "S036",
+      "url": "https://istanbul.meb.gov.tr/meb_iys_dosyalar/2019_12/05103521_2-_GUIDE_FOR_PARENTS.pdf",
+      "titles": [
+        "分阶段规则参考"
+      ],
+      "used_in": [
+        "档案/历史问答.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S037",
+      "url": "https://justacardboardbox.itch.io/gonggi",
+      "titles": [
+        "打开游戏：Gonggi by JustACardboardBox",
+        "Gonggi — JustACardboardBox"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "01_抓石子.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮作者规则正文可读；明确第四第五轮改编"
+    },
+    {
+      "id": "S038",
+      "url": "https://play.google.com/store/apps/details?id=com.starzstech.starzstones",
+      "titles": [
+        "Google Play 页面",
+        "Starz Stones"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "01_抓石子.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮商店玩法正文可读；未安装"
+    },
+    {
+      "id": "S039",
+      "url": "https://store.steampowered.com/app/5475700/Gonggi_Recess/",
+      "titles": [
+        "Steam 商店页面",
+        "Gonggi: Recess"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "01_抓石子.md",
+        "02_跳房子.md",
+        "03_斗拐.md",
+        "09_综合案例与公开资料库.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮抓取仍写尚未可用；具体斗拐跳房子未重复核实"
+    },
+    {
+      "id": "S040",
+      "url": "https://github.com/yunjinkyu/Gonggi",
+      "titles": [
+        "GitHub 仓库",
+        "yunjinkyu/Gonggi"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "01_抓石子.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支main；API识别许可null（未确认）；未安装运行"
+    },
+    {
+      "id": "S041",
+      "url": "https://github.com/yunjinkyu/Gonggi/blob/main/index.html",
+      "titles": [
+        "主要实现文件 index.html",
+        "yunjinkyu/Gonggi 的 index.html",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "01_抓石子.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L2",
+      "checked_on": "2026-11-23",
+      "status": "本轮时机判定、自动动画、翻背随机函数"
+    },
+    {
+      "id": "S042",
+      "url": "https://www.yp.gov.cn/contents/2021/04/26/yp-115135.html",
+      "titles": [
+        "现实玩法与基本动作",
+        "玉屏网玩法与基本动作"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮跳皮筋动作正文可读；贵州地方资料"
+    },
+    {
+      "id": "S043",
+      "url": "https://www.sport.gov.cn/n20001280/n20745751/n20767277/c21383785/content.html",
+      "titles": [
+        "国家体育总局介绍的分队与救人玩法",
+        "国家体育总局资料",
+        "国家体育总局历史参考"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md"
+      ],
+      "verification": "L0",
+      "checked_on": "2026-11-23",
+      "status": "本轮能读标题但正文抽取不足；保留历史引用"
+    },
+    {
+      "id": "S044",
+      "url": "https://equalinformation.com/world-heritage-games-site/games/6-elastic-jump/",
+      "titles": [
+        "项目介绍",
+        "Elastic Jump — Arcforge"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮百科正文及预览入口；不把百科许可扩大到游戏"
+    },
+    {
+      "id": "S045",
+      "url": "https://bpupadhyaya.github.io/games-site/games/elastic-jump/play/",
+      "titles": [
+        "网页预览入口",
+        "网页预览"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S046",
+      "url": "https://github.com/bpupadhyaya/games-site/tree/main/games/elastic-jump/play/game/src",
+      "titles": [
+        "预览代码",
+        "源码目录",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S047",
+      "url": "https://github.com/bpupadhyaya/games-site/blob/main/games/elastic-jump/play/game/src/content.js",
+      "titles": [
+        "规则代码"
+      ],
+      "used_in": [
+        "档案/历史问答.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S048",
+      "url": "https://github.com/bpupadhyaya/games-site/blob/main/games/elastic-jump/play/game/src/moves.js",
+      "titles": [
+        "moves.js"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md"
+      ],
+      "verification": "L2",
+      "checked_on": "2026-11-23",
+      "status": "本轮脚位、等级与时间参数代码"
+    },
+    {
+      "id": "S049",
+      "url": "https://github.com/bpupadhyaya/games-site/blob/main/games/elastic-jump/play/game/src/game.js",
+      "titles": [
+        "game.js"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S050",
+      "url": "https://github.com/angeloproject7/PEBSIT004_Prelim_Cauilan_ChineseGarter",
+      "titles": [
+        "完整仓库",
+        "Unity Chinese Garter 原型",
+        "Unity Chinese Garter"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支main；API识别许可null（未确认）；未安装运行"
+    },
+    {
+      "id": "S051",
+      "url": "https://github.com/angeloproject7/PEBSIT004_Prelim_Cauilan_ChineseGarter/tree/main/Assets/Scripts",
+      "titles": [
+        "脚本目录",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L2",
+      "checked_on": "2026-11-23",
+      "status": "本轮脚本目录；玩法细节沿用此前部分源码核查"
+    },
+    {
+      "id": "S052",
+      "url": "https://github.com/angeloproject7/PEBSIT004_Prelim_Cauilan_ChineseGarter/tree/main/Builds/Assets",
+      "titles": [
+        "APK 所在目录"
+      ],
+      "used_in": [
+        "档案/历史问答.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S053",
+      "url": "https://github.com/RioBanida/Chinese-Garter",
+      "titles": [
+        "仓库",
+        "RioBanida/Chinese-Garter"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支master；API识别许可null（未确认）；未安装运行"
+    },
+    {
+      "id": "S054",
+      "url": "https://github.com/RioBanida/Chinese-Garter/blob/master/chinese%20garter/www/js/chineseGarter.js",
+      "titles": [
+        "主要玩法代码",
+        "chineseGarter.js",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "04_跳皮筋.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S055",
+      "url": "https://equalinformation.com/world-heritage-games-site/data/",
+      "titles": [
+        "World Heritage Games 开放数据"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "09_综合案例与公开资料库.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮正文及JSON/CSV入口；文字CC BY-SA 4.0，照片独立许可"
+    },
+    {
+      "id": "S056",
+      "url": "https://mpre.lifeweek.com.cn/h5/article/detail?artId=7819",
+      "titles": [
+        "三联中读的童年玩法记录",
+        "三联中读玩法记录"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "07_木头人.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本对话上一研究轮正文可读；原地定格版本"
+    },
+    {
+      "id": "S057",
+      "url": "https://www.playworks.org/game-library/red-light-green-light/",
+      "titles": [
+        "Playworks 规则",
+        "Playworks Red Light, Green Light"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "07_木头人.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮及此前官方规则正文"
+    },
+    {
+      "id": "S058",
+      "url": "https://www.youshiok.com/video/2802",
+      "titles": [
+        "中文玩法示例",
+        "中文教案"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "08_老狼老狼几点了.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本对话上一研究轮教案正文；十二点回家版"
+    },
+    {
+      "id": "S059",
+      "url": "https://www.scouts.org.uk/activities/play-what-time-is-it-mr-wolf/",
+      "titles": [
+        "英国童军规则",
+        "Scouts 规则与变体"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "08_老狼老狼几点了.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮及此前规则正文；问答步数、开饭追逐、安全线"
+    },
+    {
+      "id": "S060",
+      "url": "https://gitcode.com/code_2007/dora-Statues",
+      "titles": [
+        "木头人（Statues）",
+        "项目文档",
+        "仓库文档",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "07_木头人.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮仓库README与文件目录可读；许可来自README声明，未执行源码"
+    },
+    {
+      "id": "S061",
+      "url": "https://0shuvo0.github.io/squidgame/",
+      "titles": [
+        "Squid Game / Red Light Green Light",
+        "试玩入口",
+        "0shuvo0/squidgame"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "07_木头人.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本对话上一研究轮入口说明可读；未实际运行"
+    },
+    {
+      "id": "S062",
+      "url": "https://github.com/0shuvo0/squidgame",
+      "titles": [
+        "GitHub 源码",
+        "0shuvo0/squidgame",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "07_木头人.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支main；API识别许可null（未确认）；未安装运行"
+    },
+    {
+      "id": "S063",
+      "url": "https://github.com/showman-sharma/red-light-green-light",
+      "titles": [
+        "Red Light Green Light 摄像头版",
+        "说明与源码",
+        "showman-sharma/red-light-green-light",
+        "入口"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "07_木头人.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支main；API识别许可MIT；未安装运行"
+    },
+    {
+      "id": "S064",
+      "url": "https://dongdongpark.com/game/freeze",
+      "titles": [
+        "动动乐园：木头人",
+        "动动乐园木头人"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "07_木头人.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮官方说明；摄像头原地定格积分"
+    },
+    {
+      "id": "S065",
+      "url": "https://github.com/0shuvo0/squidgame/blob/main/main.js",
+      "titles": [
+        "核心代码",
+        "main.js"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "07_木头人.md"
+      ],
+      "verification": "L2",
+      "checked_on": "2026-11-23",
+      "status": "本对话上一研究轮已读核心源码；本轮更新仓库元数据"
+    },
+    {
+      "id": "S066",
+      "url": "https://play.google.com/store/apps/details?id=com.reyninteractivelimited.mrwolf",
+      "titles": [
+        "《Mr Wolf》——Reyn Interactive Limited",
+        "Mr Wolf — Reyn Interactive"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "08_老狼老狼几点了.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮商店正文确认看见移动触发追逐"
+    },
+    {
+      "id": "S067",
+      "url": "https://tpet.co.uk/mr-wolf",
+      "titles": [
+        "Teacher’s Pet：What Time Is It, Mr Wolf?",
+        "What Time Is It, Mr Wolf? — Teacher’s Pet",
+        "Teacher’s Pet Mr Wolf"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "08_老狼老狼几点了.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本对话上一研究轮官方介绍；认钟教学"
+    },
+    {
+      "id": "S068",
+      "url": "https://github.com/Airemz/What-time-is-it-Mr-Wolf-",
+      "titles": [
+        "Airemz/What-time-is-it-Mr-Wolf-"
+      ],
+      "used_in": [
+        "档案/历史问答.md",
+        "08_老狼老狼几点了.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S069",
+      "url": "https://www.playworks.org/game-library/hopscotch/",
+      "titles": [
+        "Playworks Hopscotch"
+      ],
+      "used_in": [
+        "02_跳房子.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮官方索引返回完整规则；非中原专属"
+    },
+    {
+      "id": "S070",
+      "url": "https://www.toronto.ca/community-people/health-wellness-care/health-programs-advice/physical-activity/outdoors-the-ultimate-playground/games/go-play-hopscotch/",
+      "titles": [
+        "多伦多市规则变体资料"
+      ],
+      "used_in": [
+        "02_跳房子.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮市政府规则变体正文可读"
+    },
+    {
+      "id": "S071",
+      "url": "https://github.com/lafeillou/H5Games-Hopscotch",
+      "titles": [
+        "lafeillou/H5Games-Hopscotch"
+      ],
+      "used_in": [
+        "02_跳房子.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S072",
+      "url": "https://github.com/unity-dev-nihal/Chalk-Stone-Unity-2D",
+      "titles": [
+        "Chalk-Stone-Unity-2D"
+      ],
+      "used_in": [
+        "02_跳房子.md"
+      ],
+      "verification": "L0",
+      "checked_on": null,
+      "status": "来自历史问答或补充交叉链接，本轮未重新核验；不要视作当前可用性确认"
+    },
+    {
+      "id": "S073",
+      "url": "https://github.com/erik-slack/Red-Rover/blob/master/README.md",
+      "titles": [
+        "README"
+      ],
+      "used_in": [
+        "05_跑马城与挑急急令.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮README确认已知内存问题"
+    },
+    {
+      "id": "S074",
+      "url": "https://github.com/Airemz/What-time-is-it-Mr-Wolf-/blob/master/game.cpp",
+      "titles": [
+        "game.cpp",
+        "入口"
+      ],
+      "used_in": [
+        "08_老狼老狼几点了.md",
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "L2",
+      "checked_on": "2026-11-23",
+      "status": "本对话上一研究轮已读核心源码；链表模拟"
+    },
+    {
+      "id": "S075",
+      "url": "https://github.com/AloysHF/childhood/blob/master/README.md",
+      "titles": [
+        "AloysHF/childhood README"
+      ],
+      "used_in": [
+        "09_综合案例与公开资料库.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮完整README；不代表联网与测试实测"
+    },
+    {
+      "id": "S076",
+      "url": "https://www.playworks.org/game-library/",
+      "titles": [
+        "Playworks Game Library"
+      ],
+      "used_in": [
+        "09_综合案例与公开资料库.md"
+      ],
+      "verification": "L1",
+      "checked_on": "2026-11-23",
+      "status": "本轮官方检索结果；作为规则资料入口"
+    },
+    {
+      "id": "S077",
+      "url": "https://github.com/bpupadhyaya/games-site",
+      "titles": [
+        "入口"
+      ],
+      "used_in": [
+        "10_电子化案例与源码对照表.md"
+      ],
+      "verification": "仓库元数据",
+      "checked_on": "2026-11-23",
+      "status": "本轮公开仓库存在；默认分支main；API识别许可null（未确认）；未安装运行"
+    }
+  ]
+}
+

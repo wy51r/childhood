@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "compiled_on": "2026-11-23",
+  "timezone": "Asia/Shanghai",
+  "scope": [
+    "抓石子",
+    "跳房子",
+    "斗拐",
+    "跳皮筋",
+    "跑马城／挑急急令",
+    "翻花绳",
+    "木头人",
+    "老狼老狼几点了",
+    "综合案例与公开资源"
+  ],
+  "case_count": 31,
+  "source_count": 77,
+  "question_count": 9,
+  "origin_thread": "01a1c860-f073-7d21-8f00-2d1d1a172576",
+  "runtime_tested": false
+}
+
